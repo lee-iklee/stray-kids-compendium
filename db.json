@@ -1,0 +1,33 @@
+{
+	"photocards": [
+		{
+			"id": 1,
+			"name": "Debut Stage Pass 🎤✨",
+			"url": "/photocards/debut_stage_pass/debut_stage_pass",
+			"description": "A rejoint le discord Stay with iklee ❣️",
+			"has_objective": false,
+			"target": 1,
+			"enabled": true
+		}
+	],
+	"user_photocards": [
+		{
+			"id": 1,
+			"photocard_id": 1,
+			"user_id": 1,
+			"acquired_date": 1740964560,
+			"progress": 1
+		},
+		{
+			"id": 1,
+			"photocard_id": 1,
+			"user_id": 2,
+			"acquired_date": 1740964560,
+			"progress": 1
+		}
+	],
+	"users": [
+		{ "id": 1, "name": "iklee", "discord_id": 295191715340353537 },
+		{ "id": 2, "name": "caelmyn", "discord_id": 185423705537511424 }
+	]
+}
